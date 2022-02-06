@@ -12,10 +12,6 @@ class _LocalizationPageState extends State<LocalizationPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: Text("Localization"),
-        centerTitle: true,
-      ),
       body: Container(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.end,

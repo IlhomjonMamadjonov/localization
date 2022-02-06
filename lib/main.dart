@@ -14,9 +14,6 @@ void main() async {
       Locale('fr', 'FR'),
       Locale('kr', 'KR'),
       Locale('jpn', 'JPN'),
-
-
-
     ],
     path: 'assets/translations',
     fallbackLocale: Locale('en', 'US'),
